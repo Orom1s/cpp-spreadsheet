@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/.vs/cpp-spreadsheet/FileContentIndex
+/.vs/cpp-spreadsheet/v17
+/.vs
